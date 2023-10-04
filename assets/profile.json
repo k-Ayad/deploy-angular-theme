@@ -1,0 +1,145 @@
+{
+    "info":{
+        "name":"Kyro Ayad",
+        "email": "kyrollos.ayad@tfk.me",
+        "birthday" : "15/5/1997",
+        "phoneNumber" : "01276832755",
+        "shopPrefrences" : [
+            "men", "kids"
+        ]
+    },
+    "orders":[
+        {
+            "id" : 563235 ,
+            "items" : [
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test",
+                    "size" : "s",
+                    "color" : "beige",
+                    "count" : 2
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_11_2.jpg",
+                    "url":"/product/test",
+                    "size" : "s",
+                    "color" : "beige",
+                    "count" : 1
+                }
+            ],
+            "date" : "12/4/2020",
+            "status" : 2,
+            "total" : 900
+        },
+        {
+            "id" : 563236 ,
+            "items" : [
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test",
+                    "size" : "s",
+                    "color" : "beige",
+                    "count" : 1
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_11_2.jpg",
+                    "url":"/product/test",
+                    "size" : "s",
+                    "color" : "beige",
+                    "count" : 3
+                }
+            ],
+            "date" : "12/4/2020",
+            "status" : 3,
+            "total" : 900
+        }
+    ],
+    "addresses" : [
+        {
+            "title" : "Home",
+            "desc" : "BULDING NO. 9 , STREET NO. 270",
+            "area" : "TAKSEM LASELKY",
+            "governate" : "NEW MAADI",
+            "city" : "cairo",
+            "number" : "01275555555"
+        },
+        {
+            "title" : "work",
+            "desc" : "villa 22 , 77st",
+            "area" : "demeshk st",
+            "governate": "maadi",
+            "city" : "cairo",
+            "number" : "01275555555"
+        }
+    ],
+
+    "favourites" : [
+        {
+            "id":0 ,
+            "itemUrl":"product/test",
+            "itemImage":"assets/imgs/category page/product 1/2_10_2.jpg",
+            "itemTitle":"PULLOVER - SOLID - SLIP-ON",
+            "itemDescription":"nfengfbnpieqnfbeqgfniqewnfqbfegeqp",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":1,
+            "itemUrl":"product/test",
+            "itemImage":"assets/imgs/category page/product 1/2_11_2.jpg",
+            "itemTitle":"T-shirt",
+            "itemDescription":"nfengfbnpieqnfbeqgfniqewnfqbfegeqp",
+            "brand":"OR",
+            "price": 450
+        },
+        {
+            "id":2 ,
+            "itemUrl":"product/test",
+            "itemImage":"assets/imgs/category page/product 1/2_10_2.jpg",
+            "itemTitle":"PULLOVER - SOLID - SLIP-ON",
+            "itemDescription":"nfengfbnpieqnfbeqgfniqewnfqbfegeqp",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":3,
+            "itemUrl":"product/test",
+            "itemImage":"assets/imgs/category page/product 1/2_11_2.jpg",
+            "itemTitle":"T-shirt",
+            "itemDescription":"nfengfbnpieqnfbeqgfniqewnfqbfegeqp",
+            "brand":"OR",
+            "price": 450
+        }
+    ],
+
+    "payments" : [
+        {
+            "type" : "visa",
+            "number" : 2356,
+            "name" :"Kerllos Ayad",
+            "expDate":"28/2/2025"
+        },
+        {
+            "type" : "master card",
+            "number" : 2356,
+            "name" :"Kerllos Ayad",
+            "expDate":"28/2/2025"
+        }
+    ]
+}

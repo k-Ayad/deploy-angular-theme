@@ -1,0 +1,631 @@
+
+{
+    "announcements" : [
+            {
+                "id": 1,
+                "description": "discount 10% "
+            },
+            {
+                "id": 2,
+                "description": "free shipping "
+            },
+            {
+                "id": 3,
+                "description": "weekend offers"
+            }
+    ],
+    "url" : "assets/imgs/kerllos.png",
+
+    "mainCollections" : [
+        {
+            "id":0,
+            "url":"collections/men",
+            "name":"Men"
+        },
+        {
+            "id":1,
+            "url":"collections/women",
+            "name":"Women"
+        },
+        {
+            "id":2,
+            "url":"collections/kids",
+            "name":"Children"
+        }
+    ],
+
+    "navbarLinks":[
+        {
+            "id":0 , 
+            "url":"offers",
+            "name":"Sale"
+        },
+        
+        {
+            "id":2 , 
+            "url":"shopthelook",
+            "name":"Shop the look"
+        },
+        {
+            "id":3 , 
+            "url":"about",
+            "name":"About us"
+        },
+        {
+            "id":4 , 
+            "url":"brands",
+            "name":"brands"
+        }
+    ],
+
+    "mainSlider" : [
+        {
+            "id":0, 
+            "url" : "#",
+            "desktopImage":"assets/imgs/main slider/NasDP.jpg",
+            "desktopImageAlt":"...",
+            "mobileImage" : "assets/imgs/main slider/Nas_mobile.jpg",
+            "mobileImageAlt" : "..."
+        },
+        {
+            "id":1, 
+            "url" : "#",
+            "desktopImage":"assets/imgs/main slider/onda_DP.jpg",
+            "desktopImageAlt":"...",
+            "mobileImage" : "assets/imgs/main slider/onda_mobile.jpg",
+            "mobileImageAlt" : "..."
+        },
+        {
+            "id":2, 
+            "url" : "#",
+            "desktopImage":"assets/imgs/main slider/Glitter_DP.jpg",
+            "desktopImageAlt":"...",
+            "mobileImage" : "assets/imgs/main slider/Glitter_Mobile.jpg",
+            "mobileImageAlt" : "..."
+        }
+    ],
+
+    "mainCategories": [
+        {
+            "id":0,
+            "collectionURL":"#",
+            "imageURL" : "assets/imgs/main categories/men set.png",
+            "collectionTitle" : "Shop Men"
+        },
+        {
+            "id":1,
+            "collectionURL":"#",
+            "imageURL" : "assets/imgs/main categories/woman-model-female-woman-thumbnail-removebg-preview.png",
+            "collectionTitle" : "Shop Women"
+        },
+        {
+            "id":2,
+            "collectionURL":"#",
+            "imageURL" : "assets/imgs/main categories/chil.png",
+            "collectionTitle" : "Shop KIDS"
+        }
+    ],
+
+
+    "homeCategories": [
+        {
+            "id":0,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/istockphoto-1249496770-612x612.jpg",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"shoes"
+        },
+
+        {
+            "id":1,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/15849683_29479276_300.webp",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"pants"
+        },
+
+        {
+            "id":2,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/18350843_39404138_300.webp",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"sckirts"
+        },
+
+        {
+            "id":3,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/300909514BLACK_1.webp",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"Accessories"
+        },
+
+        {
+            "id":4,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/dress_.jpg",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"dresses"
+        },
+
+        {
+            "id":5,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/pink-blouse-16783678.jpg",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"shirts"
+        },
+
+        {
+            "id":6,
+            "categoryURL":"#",
+            "imageURL":"assets/imgs/categories section/slide_20.webp",
+            "imagAlt":"shoes category image",
+            "categoryTitle":"jeans"
+        }
+
+    ],
+
+    "bestSelling":[
+        {
+            "id":0,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/2_14_2.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":1,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/2_39_2.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":2,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/3_13_2.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":3,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/3_35_2.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":4,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/MTSS-124-T2-059-S-RED.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":5,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/WTRB-126-T1-122-S-BLK.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        },
+        {
+            "id":7,
+            "productUrl":"#",
+            "productImage":"assets/imgs/most selling section/2_14_2.jpg",
+            "productTitle":"PULLOVER - SOLID - SLIP-ON",
+            "brand":"DANIEL HECHTER",
+            "price": 450
+        }
+
+    ],
+    
+    "shopByStyles" : [
+        {
+            "id":0,
+            "styleImage":"assets/imgs/shop by style/everlane-classic-style.jpg",
+            "styleTitle": "classic",
+            "styleUrl":"#"
+        },
+        {
+            "id":1,
+            "styleImage":"assets/imgs/shop by style/Xirena-Jordyn-Pants.webp",
+            "styleTitle": "Comfort",
+            "styleUrl":"#"
+        },
+        {
+            "id":2,
+            "styleImage":"assets/imgs/shop by style/1587412527-wnb88-blk-001a-612x-1587412516.jpg",
+            "styleTitle": "simple",
+            "styleUrl":"#"
+        },
+        {
+            "id":3,
+            "styleImage":"assets/imgs/shop by style/images.jpg",
+            "styleTitle": "sports",
+            "styleUrl":"#"
+        }
+    ],
+    "saleSection":
+        {
+            "head":
+            {
+                "image": "assets/imgs/sale section/Carina_3012023_Offer-page_1024x1024.webp",
+                "description": "use TFK10 promocode and get 10% Off",
+                "title": "TFK10"
+            },
+            "carousel":[
+                {
+                    "id":0,
+                    "productUrl":"#",
+                    "productImage":"assets/imgs/most selling section/2_14_2.jpg",
+                    "productTitle":"PULLOVER - SOLID - SLIP-ON",
+                    "brand":"DANIEL HECHTER",
+                    "price": 450
+                },
+                {
+                    "id":1,
+                    "productUrl":"#",
+                    "productImage":"assets/imgs/most selling section/2_39_2.jpg",
+                    "productTitle":"PULLOVER - SOLID - SLIP-ON",
+                    "brand":"DANIEL HECHTER",
+                    "price": 450
+                },
+                {
+                    "id":2,
+                    "productUrl":"#",
+                    "productImage":"assets/imgs/most selling section/3_13_2.jpg",
+                    "productTitle":"PULLOVER - SOLID - SLIP-ON",
+                    "brand":"DANIEL HECHTER",
+                    "price": 450
+                },
+                {
+                    "id":3,
+                    "productUrl":"#",
+                    "productImage":"assets/imgs/most selling section/3_35_2.jpg",
+                    "productTitle":"PULLOVER - SOLID - SLIP-ON",
+                    "brand":"DANIEL HECHTER",
+                    "price": 450
+                }
+            ]
+        },
+
+
+        "lookbook":{
+            "images":[
+                "assets/imgs/lookbook section/Mask Group 97@2x.png",
+                "assets/imgs/lookbook section/Mask Group 95@2x.png",
+                "assets/imgs/lookbook section/Mask Group 94@2x.png",
+                "assets/imgs/lookbook section/Mask Group 96@2x.png",
+                "assets/imgs/lookbook section/casual-winter-work-outfits-1-269383-1538682919064-square.700x0c.jpg"
+            ]
+        },
+
+        "brandsSection":[
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/Tommy_Hilfiger_Logo.png"
+            },
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/H&M-Logo.svg.png"
+            },
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/Lacoste_logo.svg.png"
+            },
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/Nike-Logo.png"
+            },
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/Ralph-Lauren-Symbol.png"
+            },
+            {
+                "url":"#",
+                "image":"assets/imgs/brands section/diesel.png"
+            }
+        ],
+
+        "blogsSection" : [
+            {
+                "id":0,
+                "url":"#",
+                "image":"assets/imgs/blogs section/istockphoto-111885949-612x612.jpg",
+                "title": "Title",
+                "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur qui, iste praesentium quae eveniet provident, id recusandae quidem iure eos aperiam quia nihil in non tenetur omnis nemo aliquam eligendi!"
+            },
+            {
+                "id":1,
+                "url":"#",
+                "image":"assets/imgs/blogs section/photo-1441986300917-64674bd600d8.jpg",
+                "title": "Title",
+                "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur qui, iste praesentium quae eveniet provident, id recusandae quidem iure eos aperiam quia nihil in non tenetur omnis nemo aliquam eligendi!"
+            },
+            {
+                "id":2,
+                "url":"#",
+                "image":"assets/imgs/blogs section/istockphoto-111885949-612x612.jpg",
+                "title": "Title",
+                "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur qui, iste praesentium quae eveniet provident, id recusandae quidem iure eos aperiam quia nihil in non tenetur omnis nemo aliquam eligendi!"
+            },
+            {
+                "id":3,
+                "url":"#",
+                "image":"assets/imgs/blogs section/photo-1441986300917-64674bd600d8.jpg",
+                "title": "Title",
+                "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur qui, iste praesentium quae eveniet provident, id recusandae quidem iure eos aperiam quia nihil in non tenetur omnis nemo aliquam eligendi!"
+            }
+        ],
+
+        "footerMenus": [
+            {
+                "title": "SHOP",
+                "links":[
+                    {
+                        "title":"home",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link1",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link2",
+                        "url":"#"
+                    }
+                ]
+            },
+            {
+                "title": "support",
+                "links":[
+                    {
+                        "title":"home",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link3",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link4",
+                        "url":"#"
+                    }
+                ]
+            },
+            {
+                "title": "tfk",
+                "links":[
+                    {
+                        "title":"home",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link5",
+                        "url":"#"
+                    },
+                    {
+                        "title":"link6",
+                        "url":"#"
+                    }
+                ]
+            }
+        ],
+
+        "footer":{
+            "logo":"assets/imgs/kerllos-bg-black.png",
+            "description": "LOREM IPSUM DOLOR SIT AMET CONSECTETUR ADIPISICING ELIT."
+        },
+
+        "about":{
+            "banner":{
+                "descktopImageUrl": "assets/imgs/about us/Atum_642023_HP-DP_1.jpg",
+                "mobileImageUrl": "assets/imgs/about us/Atum_642023_HP-mobile_1.jpg",
+                "title" : "ABOUT TFK",
+                "description": "EVERY THING YOU NEED TO KNOW ABOUT US AND MORE"
+            },
+
+            "ourVision": {
+                "imageUrl": "assets/imgs/about us/vision2.png",
+                "description": "And we speak satisfied with the expression of the same. We are people and we want to support them in expressing their personality through fashion - because fashion can help stand out and belong at the same time. At TFK, we want to support people by inspiring them with a variety of people, brands, and styles."
+            },
+
+            "sellingSections" : [
+                {
+                    "image" : "assets/imgs/about us/icons8-team-CrW-TbykPBQ-unsplash.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                },
+                {
+                    "image" : "assets/imgs/about us/malvestida-magazine-u79wy47kvVs-unsplash.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                },
+                {
+                    "image" : "assets/imgs/about us/parcel_bag_front.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                }
+            ],
+
+            "newsSections" : [
+                {
+                    "image" : "assets/imgs/about us/icons8-team-CrW-TbykPBQ-unsplash.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                },
+                {
+                    "image" : "assets/imgs/about us/malvestida-magazine-u79wy47kvVs-unsplash.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                },
+                {
+                    "image" : "assets/imgs/about us/parcel_bag_front.png",
+                    "title" : "Contact with million client",
+                    "description":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis dolore dicta illo a, cumque officia."
+                }
+            ]
+            
+        },
+
+        "collectionFilters":[
+            {
+                "title":"Categories",
+                "items":
+                [
+                {
+                    "title":"DRESSES",
+                    "url":"#"
+                },
+                {
+                    "title":"PANTS",
+                    "url":"#"
+                },
+                {
+                    "title":"SHIRTS",
+                    "url":"#"
+                },
+                {
+                    "title":"JACKETS",
+                    "url":"#"
+                },
+                {
+                    "title":"HOODIES",
+                    "url":"#"
+                },
+                {
+                    "title":"SPORTSWEAR",
+                    "url":"#"
+                },
+                {
+                    "title":"LINGERIE",
+                    "url":"#"
+                },
+                {
+                    "title":"SHOES",
+                    "url":"#"
+                }
+            ]},
+            {
+                "title":"price",
+                "items":
+                [
+                {
+                    "title":"100",
+                    "url":"#"
+                },
+                {
+                    "title":"200",
+                    "url":"#"
+                },
+                {
+                    "title":"300",
+                    "url":"#"
+                },
+                {
+                    "title":"400",
+                    "url":"#"
+                },
+                {
+                    "title":"500",
+                    "url":"#"
+                }
+            ]},
+            {
+                "title":"brands",
+
+                "items":[
+                    {
+                        "title":"OR",
+                        "url":"#"
+                    },
+                    {
+                        "title":"DH",
+                        "url":"#"
+                    },
+                    {
+                        "title":"DRESSCODE",
+                        "url":"#"
+                    },
+                    {
+                        "title":"FITFREAK",
+                        "url":"#"
+                    },
+                    {
+                        "title":"ADIDAS",
+                        "url":"#"
+                    },
+                    {
+                        "title":"ARRKAN",
+                        "url":"#"
+                    },
+                    {
+                        "title":"MAGMA",
+                        "url":"#"
+                    },
+                    {
+                        "title":"ZAHWA",
+                        "url":"#"
+                    }
+                ]
+
+            }
+
+         ],
+
+         "offers": [
+            {
+                "id":0,
+                "banner" : "assets/imgs/offers/Premoda_26423_offerpage_1024x1024.webp",
+                "url" : "#",
+                "text1" : "limited time offer",
+                "text2" : "up to",
+                "text3" : "70%",
+                "text4" : "Discount"
+            },
+            {
+                "id":1,
+                "banner" : "assets/imgs/offers/aida_26423_offerpage_1024x1024.webp",
+                "url" : "#",
+                "text1" : "limited time offer",
+                "text2" : "up to",
+                "text3" : "70%",
+                "text4" : "Discount"
+            },
+            {
+                "id":2,
+                "banner" : "assets/imgs/offers/Atum_26423_offerpage_1_1024x1024.webp",
+                "url" : "#",
+                "text1" : "limited time offer",
+                "text2" : "up to",
+                "text3" : "70%",
+                "text4" : "Discount"
+            },
+            {
+                "id":3,
+                "banner" : "assets/imgs/offers/fitfreak_26423_offerpage_1024x1024.webp",
+                "url" : "#",
+                "text1" : "limited time offer",
+                "text2" : "up to",
+                "text3" : "70%",
+                "text4" : "Discount"
+            },
+            {
+                "id":4,
+                "banner" : "assets/imgs/offers/Dare_26423_offerpage_1024x1024.webp",
+                "url" : "#",
+                "text1" : "limited time offer",
+                "text2" : "up to",
+                "text3" : "70%",
+                "text4" : "Discount"
+            }
+         ]
+}
+

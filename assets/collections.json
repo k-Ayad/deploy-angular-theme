@@ -1,0 +1,265 @@
+{
+    "collections": {
+        "women": {
+            "title":"Collection Name",
+            "banner":{
+                "mobile":"assets/imgs/collection/Or-channel-banner.webp",
+                "desktop":"assets/imgs/collection/Or-channel-banner.webp"
+            },
+            "products": [
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_11_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_12_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_14_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 2/2_36_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 2/2_37_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 2/2_38_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 2/2_39_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 5/WTRB-126-T1-122-M-BWT.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 5/WTRB-126-T1-122-M-CLB.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 5/WTRB-126-T1-122-M-NAS.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 5/WTRB-126-T1-122-M-WHT.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 5/WTRB-126-T1-122-S-BLK.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 3/3_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 3/3_11_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 3/3_12_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 3/3_13_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 4/3_33_2.jpg",
+                    "url":"/product/test"
+                },  
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 4/3_34_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 4/3_35_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 6/MTSS-124-T2-059-P053-S-BLU.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 6/MTSS-124-T2-059-S-RED.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                },
+                {
+                    "id": 0,
+                    "title": "JACKET - LOOSE FIT - BUTTON CLOSURE",
+                    "vendor": "OR",
+                    "handle": "jacket-loose-fit-button-closure",
+                    "price": 450,
+                    "image": "assets/imgs/category page/product 1/2_10_2.jpg",
+                    "url":"/product/test"
+                }
+            ]
+        }
+    }
+}

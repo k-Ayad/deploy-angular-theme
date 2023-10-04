@@ -1,0 +1,830 @@
+{
+    "womensLook": [
+        {
+            "title": "NOT YOUR AVERAGE CASUAL LOOK!",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, ab.",
+            "lookImage": "assets/imgs/shop the look/Bestwinteroutfitforwomenyoucantryin2023_540x.jpg",
+            "items": [
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "NOT YOUR AVERAGE CASUAL LOOK!",
+            "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, ab.",
+            "lookImage": "assets/imgs/shop the look/Bestwinteroutfitforwomenyoucantryin2023_540x.jpg",
+            "items": [
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "T-shirt",
+                    "brand": "OR",
+                    "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus adipisci dolorem minus excepturi fuga, amet distinctio fugit quibusdam hic nam ipsam nobis dolor neque, necessitatibus maiores perferendis, eius reprehenderit explicabo",
+                    "price": 499,
+                    "mainImage": "assets/imgs/category page/product 1/2_13_2.jpg",
+                    "variants": [
+                        {
+                            "id": 1,
+                            "imageId": 1,
+                            "color": "beige",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 2,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "M",
+                            "count": 2
+                        },
+                        {
+                            "id": 3,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "L",
+                            "count": 3
+                        },
+                        {
+                            "id": 4,
+                            "imageId": 2,
+                            "color": "yellow",
+                            "size": "S",
+                            "count": 0
+                        },
+                        {
+                            "id": 5,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "S",
+                            "count": 6
+                        },
+                        {
+                            "id": 6,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 7,
+                            "imageId": 3,
+                            "color": "white",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 8,
+                            "imageId": 4,
+                            "color": "gray",
+                            "size": "XL",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "M",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "S",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "L",
+                            "count": 5
+                        },
+                        {
+                            "id": 9,
+                            "imageId": 5,
+                            "color": "black",
+                            "size": "XL",
+                            "count": 5
+                        }
+                    ],
+                    "variantsImages": [
+                        {
+                            "id": 1,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 2,
+                            "url": "assets/imgs/category page/product 1/2_10_2.jpg"
+                        },
+                        {
+                            "id": 3,
+                            "url": "assets/imgs/category page/product 1/2_11_2.jpg"
+                        },
+                        {
+                            "id": 4,
+                            "url": "assets/imgs/category page/product 1/2_13_2.jpg"
+                        },
+                        {
+                            "id": 5,
+                            "url": "assets/imgs/category page/product 1/2_12_2.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
